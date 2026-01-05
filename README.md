@@ -6,7 +6,8 @@ The objective of this project is to perform a web vulnerability assessment on DV
 ### Lab Setup :
 - Attacker Machine: Kali Linux
 - Target Machine: Ubuntu running DVWA
-- Environment: Internal network
+- Environment: Internal network 
+
 DVWA was hosted on an Ubuntu server with intentionally insecure configurations. Kali Linux was used to perform testing using standard security tools.
 
 ### Tools Used:
